@@ -7,7 +7,7 @@ from validate import validate_initData
 from pydantic import BaseModel
 from dotenv import load_dotenv
 from jose import JWTError, jwt
-from random import randint, choice``
+from random import randint, choice
 
 import hashlib
 import hmac
